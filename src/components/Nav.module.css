@@ -1,0 +1,13 @@
+.nav {
+    list-style: none;
+    text-align: right;
+}
+
+.nav ul li {
+    display: inline;
+    padding: 5px;
+}
+
+a.active {
+    color: coral;
+}
